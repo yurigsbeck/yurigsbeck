@@ -1,4 +1,4 @@
-## Hello! I'm Yuri  Beck
+## Hello! I'm Yuri Beck
 
 <div style="display: flex; justify-content: space-between;">
   <a href="https://github.com/yurigsbeck"/>
